@@ -1,0 +1,1 @@
+GREETINGS = 1

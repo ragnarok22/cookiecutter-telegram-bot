@@ -2,6 +2,7 @@
   "project_name": "My Telegram bot",
   "project_slug": "{{ cookiecutter.project_name | slugify(separator='_') }}",
   "main_file_name": "main",
+  "telegram_token": "",
   "license": ["MIT", "GNU GPL v3.0", "Apache License 2.0", "Not open source"],
   "_extensions": ["cookiecutter.extensions.SlugifyExtension"]
 }
